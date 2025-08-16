@@ -1,0 +1,45 @@
+JOHN DOE
+Software Engineer
+john.doe@email.com | (555) 123-4567 | linkedin.com/in/johndoe
+
+PROFESSIONAL SUMMARY
+Experienced software engineer with 5+ years of experience in developing web applications and machine learning solutions. Proficient in Python, JavaScript, and React. Passionate about AI and data science.
+
+TECHNICAL SKILLS
+Programming Languages: Python, JavaScript, Java, SQL
+Frontend: React, Angular, HTML, CSS
+Backend: Node.js, Django, Flask, Spring Boot
+Databases: MongoDB, MySQL, PostgreSQL
+Cloud & DevOps: AWS, Docker, Kubernetes, Git
+AI/ML: Machine Learning, TensorFlow, Scikit-learn, Data Analysis
+Tools: Excel, PowerBI, Tableau
+
+WORK EXPERIENCE
+Senior Software Engineer | TechCorp Inc. | 2022 - Present
+• Led development of AI-powered customer analytics platform
+• Managed team of 4 developers using Agile/Scrum methodology
+• Implemented machine learning algorithms improving accuracy by 25%
+
+Software Developer | StartupXYZ | 2020 - 2022
+• Developed full-stack web applications using React and Node.js
+• Built RESTful APIs and microservices architecture
+• Collaborated with cross-functional teams using Git workflow
+
+EDUCATION
+Master of Science in Computer Science
+University of Technology | 2018 - 2020
+GPA: 3.8/4.0
+
+Bachelor of Engineering in Software Engineering
+State University | 2014 - 2018
+GPA: 3.9/4.0
+
+CERTIFICATIONS
+• AWS Certified Developer Associate
+• Google Cloud Professional Data Engineer
+• Microsoft Azure AI Engineer Associate
+
+PROJECTS
+AI Resume Screening System - Built machine learning model for candidate ranking
+E-commerce Platform - Full-stack application with React and Node.js
+Data Analytics Dashboard - Real-time analytics using PowerBI and Python
